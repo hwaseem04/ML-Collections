@@ -1,9 +1,9 @@
 # ML-Collections
 
 ## Perceptron
-- From Scratch [implementation](/Perceptron/Perceptron.ipynb
+- From Scratch [implementation](/perceptron/Perceptron.ipynb
 ) - Using NumPy functions.
-- From Scratch [implementation](/Perceptron/Torch-Perceptron.ipynb
+- From Scratch [implementation](/perceptron/Torch-Perceptron.ipynb
 ) - Using PyTorch functions.
 
 ## Linear Regression
