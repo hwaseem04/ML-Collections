@@ -21,5 +21,9 @@
         - Easy to create cascading layered models.
     - Created model with `nn.Module`
         - Helpful for creating complex models which is not strictly Sequential.
-    - Created model with `nn.Module` along with a custom layer.
-    
+    - Created model with `nn.Module` along with a custom layer.  
+- Regression model for Fuel Prediction - [Implementation](/MultiLayer-Perceptron/Predicting-fuel-efficiency.ipynb).
+    - Prepocessed the data from web
+    - Trained a Regression model
+- Classification of MNIST Digits - [Implementation](MultiLayer-Perceptron/Classifying-MNIST-digits.ipynb).
+    - Used data from torchvision.datasets
