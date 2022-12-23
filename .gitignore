@@ -1,6 +1,8 @@
 # Mac os
 **/.DS_Store
 
+/CNN/celeba
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
