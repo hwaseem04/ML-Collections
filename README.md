@@ -27,3 +27,15 @@
     - Trained a Regression model
 - Classification of MNIST Digits - [Implementation](MultiLayer-Perceptron/Classifying-MNIST-digits.ipynb).
     - Used data from torchvision.datasets
+- Loss functions  and its different inputs - [Implementation](MultiLayer-Perceptron/Loss-functions.ipynb).
+    - Logits and Probabilities as input in,
+        - Binary Cross Entropy Loss
+        - Cross Entropy Loss 
+
+## Convolutional Neural Network
+- Naive implementation of 1-D & 2-D Convolution in numpy - [Implementation](CNN/1D-and-2D-Convolution-naive.ipynb)
+    - Based on the mathematical convolution process, not the *Cross Correlation*
+- Classification of MNIST Digits using CNN - [Implementation](CNN/MNIST-digit-recognition-using-CNN.ipynb)
+    - Accuracy of 99%
+- Smile classification using CelebA dataset - [Implementation](CNN/Smile-classification.ipynb)
+    - Performed data augmentation pipeline. (Doubt in random retrival of image)
