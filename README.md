@@ -12,6 +12,11 @@
 - Toy Dataset [implementaion](Linear-Regression/Using-torchnn-functionalities.ipynb)  - Utilized `torch.nn` class
     - Used PyTorch's function for loss function, parameter updation and layer definition.
 
+## Logistic Regression
+- Bank Note Autentication [implementation](Logistic-Regression/BankNote-Authentication.ipynb)
+    - Have used glorot initialisation
+    - **Remarks** - non standardised train data reached higher accuracy quickly, but wasn't steady
+
 ## MultiLayer Perceptron
 - Classification of  Flowers using iris Dataset - [Implementation](/MultiLayer-Perceptron/Classifying-Iris-flowers.ipynb).
     - Created model by subclassing `nn.Module`.
