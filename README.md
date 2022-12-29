@@ -44,3 +44,6 @@
     - Accuracy of 99%
 - Smile classification using CelebA dataset - [Implementation](CNN/Smile-classification.ipynb)
     - Performed data augmentation pipeline. (Doubt in random retrival of image)
+- Eye Glass classification using CelebA dataset - [Implementation](CNN/EyeGlass-classification.ipynb)
+    - Played around by tweeking various parameters. 
+    - Observations are noted.
