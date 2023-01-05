@@ -3,6 +3,7 @@
 
 # Data for smile classification ~1.5 GB
 /CNN/celeba
+Transfer-learning/TL_Xception_Keras
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
