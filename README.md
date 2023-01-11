@@ -24,7 +24,7 @@
 - XOR Classification - [Implementation](/MultiLayer-Perceptron/XOR-Classification.ipynb).
     - Created model with `nn.Sequential`
         - Easy to create cascading layered models.
-    - Created model with `nn.Module`
+    - Created model with `nn.Module`(reason commented)
         - Helpful for creating complex models which is not strictly Sequential.
     - Created model with `nn.Module` along with a custom layer.  
 - Regression model for Fuel Prediction - [Implementation](/MultiLayer-Perceptron/Predicting-fuel-efficiency.ipynb).
@@ -47,3 +47,5 @@
 - Eye Glass classification using CelebA dataset - [Implementation](CNN/EyeGlass-classification.ipynb)
     - Played around by tweeking various parameters. 
     - Observations are noted.
+
+## Transfer Learning
