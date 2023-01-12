@@ -5,6 +5,10 @@
 /CNN/celeba
 Transfer-learning/TL_Xception_Keras
 
+# Large check point file
+Transfer-learning/model.pt
+Transfer-learning/model_inception.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
