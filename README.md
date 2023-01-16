@@ -1,4 +1,5 @@
 # ML-Collections
+I spend my free time training and playing around with different neural network architectures. All the below codes use **PyTorch** as I feel it more flexible. 
 
 ## Perceptron
 - From Scratch [implementation](/perceptron/Perceptron.ipynb
